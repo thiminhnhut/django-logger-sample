@@ -1,0 +1,8 @@
+POST http://localhost:8000/sensors/
+content-type: application/json
+
+{
+  "timestamp": 1620380855,
+  "temp": 32,
+  "humi": 89
+}
